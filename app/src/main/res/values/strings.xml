@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="image_desc">Descriptive text about the image</string>
+
+</resources>
